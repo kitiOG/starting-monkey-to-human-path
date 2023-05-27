@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Курсовая\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Admin\Desktop\Курсовая\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Admin\Desktop\Курсовая\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Admin\Desktop\Курсовая\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Курсовая\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.main.resources
+C:\Users\Admin\Desktop\Курсовая\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.AVG.resources
+C:\Users\Admin\Desktop\Курсовая\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.AVG2.resources
+C:\Users\Admin\Desktop\Курсовая\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.AVG3.resources
+C:\Users\Admin\Desktop\Курсовая\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.AVG4.resources
+C:\Users\Admin\Desktop\Курсовая\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.AVG5.resources
+C:\Users\Admin\Desktop\Курсовая\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.AVG6.resources
+C:\Users\Admin\Desktop\Курсовая\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Admin\Desktop\Курсовая\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Курсовая\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Курсовая\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Admin\Desktop\Курсовая\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
